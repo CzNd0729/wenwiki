@@ -1,2 +1,2 @@
-:HL["/WenWiki-web/_next/static/chunks/05nx1c_wm0xjl.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"OWb0sVE57OIINUoWU_osx"}
+:HL["/wenwiki/_next/static/chunks/0f3ms17wlwzcf.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5H_DVbCQikCGPP72Cv6NO"}
