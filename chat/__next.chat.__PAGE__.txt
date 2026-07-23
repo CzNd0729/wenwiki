@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/wenwiki/_next/static/chunks/0bn7sb9dt40_4.js"],"ClientPageRoot"]
+3:I[21443,["/wenwiki/_next/static/chunks/0bn7sb9dt40_4.js","/wenwiki/_next/static/chunks/008znsepoeudz.js","/wenwiki/_next/static/chunks/14pdk6_-m-mjj.js","/wenwiki/_next/static/chunks/0d91x6cu3_r4u.js","/wenwiki/_next/static/chunks/00dn8mrk87~mr.js"],"default"]
+6:I[97367,["/wenwiki/_next/static/chunks/0bn7sb9dt40_4.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/wenwiki/_next/static/chunks/14pdk6_-m-mjj.js","async":true}],["$","script","script-1",{"src":"/wenwiki/_next/static/chunks/0d91x6cu3_r4u.js","async":true}],["$","script","script-2",{"src":"/wenwiki/_next/static/chunks/00dn8mrk87~mr.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yjrlvjXBenIT1YGbOtiCj"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
