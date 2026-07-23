@@ -3,5 +3,5 @@
 3:I[44069,["/wenwiki/_next/static/chunks/0bn7sb9dt40_4.js","/wenwiki/_next/static/chunks/008znsepoeudz.js"],"default"]
 4:I[39756,["/wenwiki/_next/static/chunks/0bn7sb9dt40_4.js"],"default"]
 5:I[37457,["/wenwiki/_next/static/chunks/0bn7sb9dt40_4.js"],"default"]
-0:{"rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/wenwiki/_next/static/chunks/008znsepoeudz.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yjrlvjXBenIT1YGbOtiCj"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/wenwiki/_next/static/chunks/008znsepoeudz.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9KFGkC_81mrH17jghBRZV"}
 6:"$0:rsc:props:children:1:props:serverProvidedParams:params"
